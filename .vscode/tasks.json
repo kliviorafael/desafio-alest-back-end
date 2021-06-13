@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "functions/",
+			"problemMatcher": [],
+			"label": "npm: start - functions",
+			"detail": "npm run shell",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
